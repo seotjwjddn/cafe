@@ -52,6 +52,7 @@
 </style>
 </head>
 <body>
+<!-- 주석 -->
 	<div class="grid">
 		<div class="right-align">
 			총 ${boardList.boardCnt} 건의 게시글이 검색되었습니다.
